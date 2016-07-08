@@ -1,0 +1,15 @@
+{
+  "name": "ept-md-parser",
+  "version": "0.0.1",
+  "description": "CommonMark parser for Epochtalk, built on marked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "./install.sh"
+  },
+  "author": "Edward Kim",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "0.3.5"
+  }
+}
