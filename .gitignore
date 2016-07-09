@@ -15,7 +15,6 @@ doc
 results
 config.json
 /schema.sql
-/client/marked.min.js
 
 npm-debug.log
 node_modules
