@@ -1,6 +1,6 @@
 {
   "name": "ept-md-parser",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CommonMark parser for Epochtalk, built on marked",
   "main": "index.js",
   "scripts": {
